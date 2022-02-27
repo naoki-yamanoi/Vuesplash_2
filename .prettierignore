@@ -1,0 +1,4 @@
+# 変化なし
+module.exports = {
+    printWidth: 740,
+};
